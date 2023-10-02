@@ -12,7 +12,7 @@
 <h3 align="left">Lenguajes y herramientas:</h3>
 <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://th.bing.com/th/id/R.204806b11c28ba050a5c4dba44a2556a?rik=7etmRXll1B9hHQ&pid=ImgRaw&r=0" alt="postgresql" width="40" height="40"/>
+<img src="https://cdn.icon-icons.com/icons2/4037/PNG/512/postgre_brands_icon_256592.png" alt="postgre" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </p>
 
