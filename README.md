@@ -1,5 +1,5 @@
 ### Hola!! Soy Alejandro Marín👋
-<img src="https://i.postimg.cc/NjVPwpfG/IMG-0079.jpg" height="100%" width="100%">
+<img src="https://i.postimg.cc/vBD7h6V1/IMG-0079-1.jpg" height="100%" width="100%">
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
