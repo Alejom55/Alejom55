@@ -1,5 +1,8 @@
 ### Hola!! Soy Alejandro Marín👋
 <img src="https://i.postimg.cc/vBD7h6V1/IMG-0079-1.jpg" height="100%" width="100%">
+Hola, mi nombre es Alejandro, tengo 20 años y sou un apasionado hacia la tecnologia y todo lo que tenga que ver con los computadores.
+Me encanta programar y aumentar mi conocimiento sobre todo esto. 
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
