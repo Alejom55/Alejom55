@@ -1,7 +1,7 @@
 
 <img src="https://i.postimg.cc/vBD7h6V1/IMG-0079-1.jpg" height="100%" width="100%" align="center"></img>
 ## 💫 About Me:
-Hola, mi nombre es Alejandro, tengo 20 años y soy un apasionado hacia la tecnologia y todo lo que tenga que ver con los computadores.<br>Me encanta programar y aumentar mi conocimiento sobre todo este medio. 
+Hola, mi nombre es Alejandro, tengo 21 años y soy un apasionado hacia la tecnologia y todo lo que tenga que ver con los computadores.<br>Me encanta programar y aumentar mi conocimiento sobre todo este medio. 
 
 
 ## 🌐 Socials:
